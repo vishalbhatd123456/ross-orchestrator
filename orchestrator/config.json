@@ -1,0 +1,7 @@
+{
+    "tasks":[
+        {"allowed":true, "action":"A"},
+        {"allowed":false, "action":"B"},
+        {"allowed":true, "action":"B"}
+    ]
+}
